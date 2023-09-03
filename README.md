@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=crimson23425e&show_icons=true&theme=transparent)
+![Visitor Count](https://profile-counter.glitch.me/crimson23425/count.svg)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=crimson23425&theme=dracula)
